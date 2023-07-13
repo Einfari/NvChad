@@ -5,3 +5,6 @@
 --   pattern = "*",
 --   command = "tabdo wincmd =",
 -- })
+
+-- vim.g.foldmethod = expr
+-- vim.g.foldexpr = nvim_treesitter#foldexpr()
